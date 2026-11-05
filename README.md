@@ -1,6 +1,5 @@
-# SSM Compiler — Releases
+# SSManagement releases
 
-Public release artifacts for SSM Compiler. Download the latest `SSMCompiler-vX.Y.Z.html`
-from Releases and open it in a browser — fully offline, no install, no dependencies.
+Release builds of SSManagement, a single-file HTML app that compiles a commissioning Start-Up System Matrix (SSM) from a project's MEL, cable schedule, EasyPower export, PMD, and P6 schedule.
 
-The app checks this repository anonymously for newer versions.
+Download `SSManagement-vX.Y.Z.html` from the [latest release](https://github.com/noahfgarrett/SSManagement-Releases/releases/latest) and open it in a browser. It runs offline with nothing to install, and checks this repository anonymously for newer versions.
